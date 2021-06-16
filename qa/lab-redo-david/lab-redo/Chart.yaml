@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: lab-redo
+description: Chart to configure ArgoCD with the lab-redo project and its applications
